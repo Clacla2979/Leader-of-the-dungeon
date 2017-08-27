@@ -12,7 +12,7 @@ Vous connaissez ces mondes de *fantaisie* avec des *sorciers*, des *dragons*, de
 Et bien à **[nom du monde]**, ils se sont fait une *très grosse guerre* ! 
 Mais lorsque cette guerre c'est terminée, il n'y eu *pas de vainqueurs* . 
 Tous ceux en capacité de diriger leur camp on été vaincus (c'est sans doute pour ça que cette guerre est terminée) . 
-Il ne restait plus que des monstres en *quête de nouveaux chefs* dans un monde où les science et l'agriculture ont disparus . 
+Il ne restait plus que des monstres en *quête de nouveaux chefs* dans un monde où les sciences et l'agriculture ont disparus . 
 Heureusement des **esprits de l'avant-guerre** ont survécu et même si ils sont coincés dans leur **antre**, ils sont prêts pour **diriger** ce *nouveau monde* .
 
 ## Conditions de victoire/défaite
@@ -20,7 +20,7 @@ Heureusement des **esprits de l'avant-guerre** ont survécu et même si ils sont
 Vous avez cependant des **quêtes** à remplir si vous cherchez des *objectif* (ou des *récompenses*) .
 - **Défaite** : Vous perdez le jeu si vous **perdez votre dernier serviteur** (il vous faut des monstres pour aller en recruter d'autre).
 En cas de défaite, vous devrez tout simplement *recommencer le jeu* .
-
+### les serviteur 
 ## Gameplay
 ### Comment jouer ?
 [nom du jeu] se joue en multijoueur dans un monde où les serviteurs sont des PNJ (robots du serveur) et les esprits majoritairement des joueurs .
